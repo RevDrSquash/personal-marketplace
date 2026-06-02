@@ -1,0 +1,17 @@
+{
+  "name": "personal-marketplace",
+  "owner": {
+    "name": "trist"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude Code skills and plugins"
+  },
+  "plugins": [
+    {
+      "name": "video-creator-skills",
+      "source": "./video-creator-skills",
+      "description": "Claude Code skills for YouTube video production: teleprompter and slideshow generators",
+      "homepage": "https://github.com/RevDrSquash/video-creator-skills"
+    }
+  ]
+}
