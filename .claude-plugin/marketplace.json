@@ -12,6 +12,12 @@
       "source": "./video-creator-skills",
       "description": "Claude Code skills for YouTube video production: teleprompter and slideshow generators",
       "homepage": "https://github.com/RevDrSquash/video-creator-skills"
+    },
+    {
+      "name": "resume-toolkit",
+      "source": "./resume-toolkit",
+      "description": "End-to-end resume tailoring and job-application toolkit: extract JD signals, build ATS-optimized resumes, review against a JD, publish to PDF, and track applications",
+      "homepage": "https://github.com/RevDrSquash/resume-toolkit"
     }
   ]
 }

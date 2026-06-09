@@ -1,3 +1,7 @@
 [submodule "video-creator-skills"]
 	path = video-creator-skills
 	url = https://github.com/RevDrSquash/video-creator-skills.git
+[submodule "resume-toolkit"]
+	path = resume-toolkit
+	url = https://github.com/RevDrSquash/resume-toolkit.git
+	branch = main
